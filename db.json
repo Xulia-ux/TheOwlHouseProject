@@ -1,0 +1,82 @@
+{
+    "afilliations": [
+        {
+            "id": "200",
+            "type": "School",
+            "name": "Hexide School Of Magic and Demonics",
+            "location": "Boiling Isles"
+        },
+        {
+            "id": "201",
+            "type": "Resistence Group",
+            "name": "Covens Against The Throne",
+            "location": "Boiling Isles"
+        },
+        {
+            "id": "202",
+            "type": "Official Grudgby Team",
+            "name": "Banshees, Hexide School Of Magic and Demonics",
+            "location": "Boiling Isles"
+        }
+    ],
+
+    "main-charaters": [
+        {
+            "id": "100",
+            "name": "Luz Noceda",
+            "age": "14",
+            "species": "Human",
+            "gender": "Female",
+            "afilliations": [
+                {
+                    "id": "200"
+                },
+                {
+                    "id": "201"
+                }
+            ],
+            "weapons": "Owl Staff, Glyph Cards",
+            "powers and abilities": "Glyph Magic",
+            "tracks": "All (formaly)",
+            "goals": "To become a witch, To find a way home"
+        },
+        {
+            "id": "101",
+            "name": "Edalyn Clawthorne",
+            "age": "Middle 40s",
+            "species": "Witch",
+            "gender": "Female",
+            "afilliations": [
+                {
+                    "id": "200"
+                },
+                {
+                    "id": "201"
+                },
+                {
+                    "id": "202"
+                }
+            ],
+            "weapons": "Owl Staff, Incendiary Potions, Owl Beast Form, Harpy Form",
+            "tracks": "Potions (formaly)",
+            "powers and abilities": "None Official",
+            "goals": "To get rid of her curse, To overthrow the Emperor, Help Luz, Rescue Raine from the emperor, Stop the day of Unity"
+        },
+        {
+            "id": "102",
+            "name": "King Clawthorne",
+            "age": "8 (approximate)",
+            "species": "Titan",
+            "gender": "Male",
+            "afilliations": [
+                {
+                    "id": "201"
+                }
+            ],
+            "weapons": "No weapons",
+            "powers and abilities": "Tracking scents via sniffing, Sonic shout, Echo location",
+            "tracks": "No tracks",
+            "goals": "To reclaim his kingdom, To find out the truth of his past, To find his Father"
+        }
+    ]
+}
